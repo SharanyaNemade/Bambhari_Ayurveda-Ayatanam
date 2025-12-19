@@ -1,12 +1,13 @@
-Bambhari_Ayurveda-Ayatanam 🌿
+**Bambhari_Ayurveda-Ayatanam** 🌿
+
 A comprehensive web application dedicated to providing information and services related to Ayurveda practices.
 
 
-Overview
+**Overview**
 This project is a multi-page website developed as a team effort (structured under Team C and Team D directories), utilizing modern web technologies to create an informative and responsive user experience. It covers various aspects of Ayurvedic treatments and consultations.
 
 
-Technologies Used 🛠️
+**Technologies Used 🛠️**
 The project is built using the following core technologies and libraries:
 
 HTML5 & CSS3: The foundational markup and styling languages.
@@ -16,16 +17,19 @@ Font Awesome: Integrated for scalable vector icons (v6.0.0 link observed).
 Vercel: The platform used for deployment and hosting the live site.
 
 
-Technical Details
+**Technical Details**
+
 Line Endings: The project currently uses LF line endings, but the Windows environment is configured to expect CRLF, which generates a standard Git warning upon git add operations.
 Configuration: The project includes a .gitattributes file and potentially specific .vscode/settings.json files for consistent project configuration.
 Mobile Optimization: The CSS includes @media (max-width: 991px) queries for specific mobile layout optimizations (e.g., using flex-direction: column for stack layouts).
 
 
-Project Structure 📂
+**Project Structure 📂**
 The repository is organized into several key directories:
 
-Directory	Description
+
+
+**Directory	Description**
 
 
 Q Final Copy
@@ -64,12 +68,12 @@ cd Bambhari_Ayurveda-Ayatanam
 Open index.html:
 Simply open the index.html file in your preferred web browser to view the application locally.
 
-Deployment 🌐
-
+**Deployment 🌐**
 🌐Vercel :- https://bambhari-ayurveda-ayatanam-cex0vw3ko-sharanya-nemades-projects.vercel.app/Team%20D/about-ayurveda-ayatanam.html
 
 The project is configured for seamless deployment using Vercel, with the project's root directory set to ./.
-Contributors 👋
+**Contributors 👋**
+
 Sharanya Nemade (Project Maintainer)
 Team C
 Team D
